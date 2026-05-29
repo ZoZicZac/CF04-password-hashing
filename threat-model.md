@@ -1,8 +1,6 @@
 # Threat Model - CF04 Password Hashing & Weak Password
 
 **Đề tài:** Password Hashing & Weak Password  
-**Nhóm:** [Tên nhóm]  
-**Ngày:** 2026-04-28
 
 ---
 
