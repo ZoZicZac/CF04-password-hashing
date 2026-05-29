@@ -1,9 +1,7 @@
 # Ethics and Safe Use Commitment - CF04
 
-**Đề tài:** Password Hashing & Weak Password  
-**Nhóm:** [Tên nhóm]  
-**Mã học phần:** FIT4012 - Nhập môn An toàn bảo mật thông tin  
-**Ngày nộp:** 2026-04-28
+**Đề tài:** Password Hashing & Weak Password    
+**Mã học phần:** FIT4012 - Nhập môn An toàn bảo mật thông tin .
 
 ---
 
